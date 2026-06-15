@@ -1,19 +1,34 @@
-# Ravi Shankar — Android Developer
+# Hi, I'm Ravi Shankar
+Android developer focused on building real-world apps with Kotlin and Jetpack Compose.
+I care about clean architecture, smooth UIs, and offline-first systems that actually work.
 
-Building Pace — a GPS run tracker in Jetpack Compose with 
-Clean Architecture, StateFlow, Room, and Hilt.
+---
 
-🔭 Currently: Actively looking for Android Developer Roles
-📍 Location: Noida, India
-📩 Email: kuntalravi43@gmail.com
+## About
+📍 Noida
+ 
+📩 kuntalravi43@gmail.com  
 
-## What I Build
-Android apps with Kotlin · Jetpack Compose · MVVM· Clean Architecture
-Real-time systems · Offline-first architecture · Maps & Location
+🔗 [LinkedIn](https://linkedin.com/in/ravi-shankar43) 
 
-## Featured Project
-**[Pace — GPS Run Tracker](github.com/kuntalavi/Pace)**  
-[Watch Demo](https://www.youtube.com/watch?v=VNtlAXU5EPY%3Ffeature%3Dshare) · Kotlin · Compose · Maps SDK · Room · Hilt
+🔗 [Resume](https://drive.google.com/file/d/1OH_Cs6vyc9jeeg3zEsvKBfPPB66q-Rn8/view?usp=sharing)
 
-## Connect
-[LinkedIn](https://www.linkedin.com/in/ravi-shankar43/) · [Resume](https://drive.google.com/file/d/1OH_Cs6vyc9jeeg3zEsvKBfPPB66q-Rn8/view?usp=sharing)
+---
+
+## Skills
+**Languages**
+Kotlin · Java · SQL
+
+**UI**
+Jetpack Compose · XML · Material Design 3
+
+**Architecture**
+Clean Architecture · MVVM · MVI · Repository Pattern · Offline-First
+
+**Libraries & SDKs**
+Dagger Hilt · Retrofit · WorkManager · Room · Google Maps SDK · ML Kit · CameraX
+
+---
+
+## Tools
+<img src="https://skillicons.dev/icons?i=kotlin,java,firebase,supabase,git,github,gradle,androidstudio" />
