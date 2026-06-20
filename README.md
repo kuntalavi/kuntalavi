@@ -11,7 +11,7 @@ I care about clean architecture, smooth UIs, and offline-first systems that actu
 
 🔗 [LinkedIn](https://linkedin.com/in/ravi-shankar43) 
 
-🔗 [Resume](https://drive.google.com/file/d/1OH_Cs6vyc9jeeg3zEsvKBfPPB66q-Rn8/view?usp=sharing)
+🔗 [Resume](https://drive.google.com/file/d/1ee-cGtFxborYkl3ukPB3kPrP6J9PG2_H/view?usp=sharing)
 
 ---
 
